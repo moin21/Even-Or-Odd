@@ -11,10 +11,11 @@ public class evenOrOdd {
         int no = number;
         if (number%2 == 0) {
             System.out.println("It's an Even no.");
-        else{
+        }
+        else {
                 System.out.println("It's an Odd no.");
             }
         }
 
     }
-}
+
